@@ -2,14 +2,14 @@
 
 ## [OptimizelySDK](OptimizelySDK)
 
-- [`IOptimizely`](OptimizelySDK#ioptimizely)
-- [`Optimizely`](OptimizelySDK#optimizely)
-- [`ProjectConfig`](OptimizelySDK#projectconfig)
+- [`IOptimizely`](OptimizelySDK.md#ioptimizely)
+- [`Optimizely`](OptimizelySDK.md#optimizely)
+- [`ProjectConfig`](OptimizelySDK.md#projectconfig)
 
 ## [OptimizelySDK.Bucketing](OptimizelySDK.Bucketing)
 
-- [`Bucketer`](OptimizelySDK.Bucketing#bucketer)
-- [`Decision`](OptimizelySDK.Bucketing#decision)
+- [`Bucketer`](OptimizelySDK.Bucketing.md#bucketer)
+- [`Decision`](OptimizelySDK.Bucketing.md#decision)
 - [`DecisionService`](OptimizelySDK.Bucketing#decisionservice)
 - [`UserProfile`](OptimizelySDK.Bucketing#userprofile)
 - [`UserProfileService`](OptimizelySDK.Bucketing#userprofileservice)
